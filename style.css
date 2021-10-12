@@ -73,11 +73,55 @@ margin-right: 0px;
     align-items: center;
 }
 #Home-content{
-    background-color: aqua;
+    /* background-color: aqua; */
     width: 75%;
     height:80%;
+    
 }
-h1{
+#Home-content h1{
     font-size:90px;
     color: aliceblue;
+}
+#Home-content h3{
+    font-size:33px;
+    color: aliceblue;
+    margin:10px 0px;
+}
+.apply
+{
+  border: none;
+  color: white;
+  padding: 5px 55px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color:#4992ca;
+  margin:12px 0px;
+  font-size:20px;
+  padding:10px 65px;
+  
+}
+.register{
+  border: 3px solid white;
+  color: white;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color:transparent;
+  
+  font-size:20px;
+  padding:15px 30px;
+  margin-bottom: 35px;
+  margin-top: 10px;
+
+}
+#learn-more
+{
+    background-color:white;
+    color: black;
+    padding:15px 20px;
+    margin-top:20px;
+    border-radius:15px ;
+
 }
